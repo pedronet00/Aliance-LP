@@ -5,6 +5,7 @@
   },
   "About": {
     "paragraph": "'E, quando comiam, Jesus tomou o pão, e abençoando-o, o partiu, e o deu aos discípulos, e disse: Tomai, comei, isto é o meu corpo. E, tomando o cálice, e dando graças, deu-lho, dizendo: Bebei dele todos; Porque isto é o meu sangue, o sangue da nova aliança, que é derramado por muitos, para remissão dos pecados.' - Mateus 26:26-28",
+    "secondParagraph": "Nosso sistema de gestão tem o nome Aliance para nos lembrarmos da eterna aliança que Cristo fez em nosso favor, o sacrifício perfeito e vicário que nos purifica dos pecados. Trabalhamos por Ele e para Ele, pois todas as coisas por Ele foram criadas, e a tudo Ele, pela Palavra, sustenta.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -67,14 +68,14 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-group",
+      "name": "Usuários",
+      "text": "Gerencie com praticidade os membros da sua igreja!"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-star",
+      "name": "Recursos",
+      "text": "O controle de estoque que a sua igreja precisa."
     },
     {
       "icon": "fa fa-cloud-download",
