@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "'E, quando comiam, Jesus tomou o pão, e abençoando-o, o partiu, e o deu aos discípulos, e disse: Tomai, comei, isto é o meu corpo. E, tomando o cálice, e dando graças, deu-lho, dizendo: Bebei dele todos; Porque isto é o meu sangue, o sangue da nova aliança, que é derramado por muitos, para remissão dos pecados.' - Mateus 26:26-28",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -166,19 +166,19 @@
       "text": "Gerencie com praticidade os membros da sua igreja!"
     },
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-star",
+      "title": "Recursos",
+      "text": "O controle de estoque que a sua igreja precisa."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-dollar",
+      "title": "Finanças",
+      "text": "Entradas e saídas financeiras concentradas em um só módulo."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-calendar",
+      "title": "Eventos",
+      "text": "Todos os eventos da igreja se tornam gerenciáveis aqui!"
     }
   ]
 }
